@@ -1,0 +1,47 @@
+body {
+        font-family: Arial, sans-serif;
+            background-color: #f4f4f9;
+                margin: 0;
+                    padding: 20px;
+                        text-align: center; /* Centra todo el contenido, reemplaza a la etiqueta <center> */
+                        }
+
+                        h1 {
+                            color: #333;
+                                margin-top: 50px;
+                                }
+
+                                p {
+                                    color: #666;
+                                        font-size: 18px;
+                                        }
+
+                                        .contenedor-links {
+                                            margin-top: 30px;
+                                            }
+
+                                            .mi-enlace {
+                                                display: inline-block;
+                                                    margin: 10px 15px;
+                                                        padding: 12px 24px;
+                                                            background-color: #007acc;
+                                                                color: white;
+                                                                    text-decoration: none;
+                                                                        border-radius: 6px;
+                                                                            font-weight: bold;
+                                                                                transition: background-color 0.3s ease;
+                                                                                }
+
+                                                                                .mi-enlace:hover {
+                                                                                    background-color: #005999;
+                                                                                    }
+
+                                                                                    /* Estilo para las 3 imágenes que vas a agregar */
+                                                                                    .imagen-album {
+                                                                                        max-width: 100%;
+                                                                                            width: 300px;
+                                                                                                height: auto;
+                                                                                                    border-radius: 8px;
+                                                                                                        margin-top: 20px;
+                                                                                                            box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+                                                                                                            }
